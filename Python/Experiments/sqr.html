@@ -1,0 +1,25 @@
+<body>
+<label for="fname">input z:</label>
+<input type="text" id="fname" name="fname" onkeyup="runbuttonfunc()" value="4.0"><br>
+<button id="runButton" onclick="runbuttonfunc()">=</button><br>
+<label for="lname">output z*z:</label>
+<input type="text" id="lname" name="lname"><br>
+
+<script type="text/javascript">
+
+function xml_http_post(url, data) {
+    var req = new XMLHttpRequest();
+    req.open("POST", url, true);
+    req.onreadystatechange = function() {
+        if (req.readyState == 4) {
+            document.getElementById('lname').value = req.responseText
+        }
+    }
+    req.send(data);
+}
+
+function runbuttonfunc() {
+    xml_http_post("sqr.html", document.getElementById('fname').value)
+}
+</script>
+</body>

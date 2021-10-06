@@ -1,0 +1,11 @@
+name = "ComplexFunk"
+uuid = "caec06e2-940b-42c9-9cf9-daf833ac23e5"
+authors = ["Danyiel Sánchez <danyiel5978@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Cairo = "159f3aea-2a34-519c-b102-8c37f9878175"
+Decimals = "abce61dc-4473-55a0-ba07-351d65e31d42"
+Fontconfig = "186bb1d3-e1f7-5a2c-a377-96d770f13627"
+Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
+SymPy = "24249f21-da20-56a4-8eb1-6a02cf4ae2e6"

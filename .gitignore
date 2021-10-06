@@ -1,0 +1,17 @@
+# Compiled files
+*.ll
+*.o
+*.obj
+*.out
+
+# Debug output
+*.ilk
+*.log
+*.lst
+
+# Multimedia
+*.png
+*.svg
+*.jpeg
+*.mp3
+*.pdf
