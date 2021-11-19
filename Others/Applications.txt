@@ -1,0 +1,22 @@
+# Terminal
+- zsh
+- git
+- conda
+- docker
+- tex, pdflatex, luatex
+- julia (toml)
+- python (conda)
+- golang
+- mysql
+- VS Code
+- GitKraken
+- jupyter
+
+- brave
+
+- putty
+- wireshark
+- Packet Tracer
+- GNS3
+- VMware
+
