@@ -1,9 +1,9 @@
-TARGET		= macros
-FLAGS	    = -Wall -Wextra -pedantic
-LIBRARYS 	= #data_structures.c basic_algorithms.c
+TARGET		= testing_12-10
+FLAGS		= -Wall -Wextra -pedantic -Wgnu-binary-literal
+LIBRARYS	= #data_structures.c basic_algorithms.c
 
 $(TARGET).out : $(TARGET).c $(LIBRARYS)
-	clang $(TARGET).c $(LIBRARYS) -o $(TARGET).out $(FLAGS)
+	clang $(TARGET).c $(LIBRARYS) $(FLAGS) -o $(TARGET).out
 
 asm: $(TARGET).out
 	objdump -d $(TARGET).out > $(TARGET).asm
