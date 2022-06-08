@@ -15,3 +15,6 @@
 *.jpeg
 *.mp3
 *.pdf
+/target
+/.ipynb_checkpoints
+/.stack-work

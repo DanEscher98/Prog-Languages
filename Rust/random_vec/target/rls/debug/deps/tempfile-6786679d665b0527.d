@@ -1,0 +1,12 @@
+/media/dany98/Shared/Working/Coding/Languages/Rust/random_vec/target/rls/debug/deps/tempfile-6786679d665b0527.rmeta: /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/lib.rs /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/dir.rs /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/error.rs /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/mod.rs /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/imp/mod.rs /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/spooled.rs /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/util.rs /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/imp/unix.rs
+
+/media/dany98/Shared/Working/Coding/Languages/Rust/random_vec/target/rls/debug/deps/tempfile-6786679d665b0527.d: /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/lib.rs /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/dir.rs /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/error.rs /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/mod.rs /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/imp/mod.rs /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/spooled.rs /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/util.rs /home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/imp/unix.rs
+
+/home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/lib.rs:
+/home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/dir.rs:
+/home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/error.rs:
+/home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/mod.rs:
+/home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/imp/mod.rs:
+/home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/spooled.rs:
+/home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/util.rs:
+/home/dany98/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/imp/unix.rs:

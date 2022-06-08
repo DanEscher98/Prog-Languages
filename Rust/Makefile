@@ -1,5 +1,5 @@
 FLAGS	= --verbose -g
-TARGET 	= hello
+TARGET 	= numI
 
 $(TARGET).out : $(TARGET).rs
 	rustc $(TARGET).rs -o $(TARGET).out $(FLAGS)
