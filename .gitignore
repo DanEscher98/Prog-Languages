@@ -73,17 +73,16 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
-<<<<<<< HEAD
 # Multimedia
 *.png
 *.svg
 *.jpeg
 *.mp3
 *.pdf
-/target
-/.ipynb_checkpoints
-/.stack-work
-=======
+target/
+.ipynb_checkpoints/
+.stack-work/
+
 # Flask stuff:
 instance/
 .webassets-cache
@@ -141,7 +140,7 @@ venv.bak/
 .ropeproject
 
 # mkdocs documentation
-/site
+site/
 
 # mypy
 .mypy_cache/
@@ -150,4 +149,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
->>>>>>> 68587a1 (	modified:   .gitignore)
